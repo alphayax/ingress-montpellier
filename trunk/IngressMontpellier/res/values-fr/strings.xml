@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ingress Organizer</string>
+    <string name="action_settings">Options</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!--  Accueuil -->
+    <string name="acc_nick">Pseudo</string>
+    <string name="acc_pass">Mot de passe</string>
+    <string name="acc_login">Connexion</string>
+    <string name="acc_create">Créer compte</string>
+
+</resources>

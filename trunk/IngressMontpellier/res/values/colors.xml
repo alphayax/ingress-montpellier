@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<!-- Colors -->
+    <color name="clr_light_grey">#FFCCCCCC</color>
+    <color name="clr_black">#FF000000</color>
+    <color name="clr_dark_grey">#A0222222</color>
+    
+</resources>
