@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ingress Montpellier</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!--  Accueuil -->
+    <string name="acc_nick">Nickname</string>
+    <string name="acc_pass">Password</string>
+    <string name="acc_login">Connection</string>
+    <string name="acc_create">Create account</string>
+
+</resources>
